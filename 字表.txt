@@ -233,7 +233,7 @@
 牙~
 
 鼠 tsy3
-鎮海 tsy1  北侖 tsy3  定海 tsy3 / tshy3  岱山 兒化 tshoe5  慈城 tshy3
+鎮海 tsy1  北侖 tsy3  定海 tsy3 / tshy3  慈城 tshy3
 老~ | 黃~狼
 
 笫 tsy3
@@ -269,7 +269,7 @@
 茋 tsy3
 
 飳 tsy3
-又音，僅限於「窩~」
+又音，僅限於「窩飳」
 
 至 tsy5
 鎮海 tsy3  北侖 tsy5  定海 tsy5  慈城 tsy1
@@ -279,7 +279,9 @@
 
 緻 tsy5
 
-㨖 tsy5
+㨖 -
+定海 tsy5
+~鞋：上鞋子
 
 輊 tsy5
 
@@ -422,7 +424,8 @@
 
 痓 tshy5
 
-飭 tshy5
+飭 -
+定海 tshy5
 
 瓷 dzy2
 鎮海 dzy2  北侖 dzy2  定海 dzy2  岱山 dzy2  慈城 dzy2
@@ -1329,10 +1332,209 @@
 鎮海 tshyu1  定海 tshyu3
 ~飯
 
-餈 tshyu5
+餈 -
 鎮海 tshyu1
 ~飯
 
-糍 tshyu5
+糍 -
 鎮海 tshyu1
 ~飯
+
+廚 dzyu2
+鎮海 dzyu2  北侖 dzyu2  定海 dzyu2  岱山 dzyu2  慈城 dzy2
+
+厨 dzyu2
+
+櫥 dzyu2
+鎮海 dzyu2
+
+橱 dzyu2
+
+躕 dzyu2
+
+蹰 dzyu2
+
+躇 dzyu2
+
+𨮿 dzyu2
+
+除 dzyu2
+鎮海 dzyu2  北侖 dzyu2  定海 dzyu2  岱山 dzyu2  慈城 dzy2
+
+篨 dzyu2
+
+蜍 dzyu2
+
+滁 dzyu2
+
+蒢 dzyu2
+
+錘 dzyu2
+鎮海 dzyu2  定海 dzyu2
+秤~
+
+捶 dzyu2
+鎮海 dzyu2
+
+搥 dzyu2
+
+𩣷 dzyu2
+
+炷 dzyu2
+量詞，用於點着的香
+
+幮 dzyu2
+
+趎 dzyu2
+
+錐 -
+定海 dzyu2
+秤~
+
+杼 dzyu4
+
+柱 dzyu4
+鎮海 dzyu6  北侖 dzyu6  定海 dzyu4  岱山 dzyu2  慈城 zy6
+
+宁 dzyu4
+
+佇 dzyu4
+
+竚 dzyu4
+
+貯 dzyu4
+鎮海 zyu6
+
+眝 dzyu4
+
+紵 dzyu4
+
+羜 dzyu4
+
+嵀 dzyu4
+
+跙 dzyu4
+
+治 dzyu6
+鎮海 dzyu2  北侖 dzyu6  北侖 dzyu6  慈城 dzy6
+
+住 dzyu6
+鎮海 dzyu2  北侖 dzyu6  北侖 dzyu6  岱山 dzy6  慈城 dzy6
+
+駐 dzyu6
+鎮海 tsyu5  定海 tsyu5  岱山 tsyu5  慈城 tsy1
+
+縋 dzyu6
+鎮海 dzyu6
+~落
+
+垂 -
+鎮海 dzyu6
+白讀，~落
+
+槌 dzyu6
+鎮海 dzyu6  定海 dzyu2  岱山 dzyu2  慈城 dzy2
+練~
+
+牏 dzyu6
+
+墜 dzyu6
+定海 dzyu6  岱山 dzyu6  慈城 dzy6
+耳朵~
+
+滯 dzyu6
+鎮海 dzyu6  北侖 dzy6  定海 dzy6  岱山 dzyu6  慈城 dzy6
+~膯
+
+樹 dzyu6
+僅限於「解樹螂」
+
+書 syu1
+鎮海 syu1  北侖 syu1  定海 syu1  岱山 syu1  慈城 sy1
+
+輸 syu1
+鎮海 syu1  北侖 syu1  定海 syu1  岱山 syu1  慈城 sy1
+~贏
+
+絮 syu1
+鎮海 syu5  北侖 shiu5  定海 syu5  岱山 syu5
+文讀
+
+抒 syu1
+鎮海 zyu2
+
+庶 syu1
+鎮海 syu5  北侖 syu5  定海 syu5  岱山 syu5  慈城 sy1
+
+庻 syu1
+
+恕 syu1
+鎮海 syu5  北侖 syu5  定海 syu5  岱山 syu5  慈城 sy1
+
+樞 syu1
+北侖 syu1  慈城 sy1
+
+舒 syu1
+鎮海 syu1  北侖 syu1  定海 syu1  岱山 syu1  慈城 sy1
+
+紓 syu1
+
+貰 syu1
+鎮海 syu5  定海 syu5
+借；貸
+
+需 syu1
+鎮海 syu1  北侖 syu1  定海 syu1  岱山 syu1  慈城 sy1
+
+濡 syu1
+
+胥 syu1
+定海 shi1  慈城 shiu1
+
+諝 syu1
+
+蝑 syu1
+
+湑 syu1
+
+䈝 syu1
+
+䱬 syu1
+
+揟 syu1
+
+須 syu1
+鎮海 syu1  北侖 syu1  定海 syu1  岱山 syu1  慈城 shiu1
+文讀
+
+鬚 syu1
+文讀
+
+尿 syu1
+鎮海 syu1  定海 syu1
+白讀
+
+姝 syu1
+
+瑹 syu1
+
+鵨 syu1
+
+嬃 syu1
+
+蕦 syu1
+
+鑐 syu1
+
+⿰口舒 syu1
+音舒吸气，表示疼痛
+
+水 syu3
+鎮海 syu3  北侖 syu3  定海 syu3  岱山 syu3  慈城 sy3
+白讀
+
+氵 syu3
+白讀
+
+暑 syu3
+鎮海 syu3  北侖 syu3  岱山 syu3  慈城 sy3
